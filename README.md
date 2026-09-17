@@ -1,4 +1,4 @@
-# 🌱 BelieveINenergy — Product Vision & Product Discovery
+# 🌱 BelieveINenergy : Product Vision & Product Discovery
 
 > **A Product Management case study: turning a real e-commerce business into a customer-centered product vision**
 
@@ -6,7 +6,7 @@
 
 BelieveINenergy is an independent digital product business focused on affirmations, motivational wall art, manifestation journals, and positive-mindset resources.
 
-I use this real-world product as a hands-on environment to apply **Product Management principles** — from identifying customer problems and validating demand to defining product vision, MVP opportunities, metrics, and future product strategy.
+I use this real-world product as a hands-on environment to apply **Product Management principles**, from identifying customer problems and validating demand to defining product vision, MVP opportunities, metrics, and future product strategy.
 
 ---
 
